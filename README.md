@@ -2,8 +2,6 @@ Edumaps Generator Pro
 
 Ein browserbasiertes Tool zum Erstellen, Bearbeiten und KI-gestützten Generieren von Maps für die Plattform Edumaps.de.
 
-Dieses Tool wurde speziell für Lehrkräfte entwickelt, um Unterrichtsinhalte basierend auf dem hessischen Lehrplan (oder anderen Vorgaben) schnell in digitale Pinnwände zu verwandeln.
-
 🚀 Funktionen
 
 Visueller Editor: Erstellen Sie Spalten und Boxen per Drag & Drop (simuliert).
